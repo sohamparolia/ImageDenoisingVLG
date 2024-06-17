@@ -1,5 +1,5 @@
 # ImageDenoisingVLG
-VLG open project
+VLG Open Project
 
 Open Project created by Soham Parolia, to enhance low light images.
 
