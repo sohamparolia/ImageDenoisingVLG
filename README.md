@@ -37,7 +37,9 @@ The main models used are:
 UNET: The model, originally developed for biomedical image segmentation, is an encoder-decoder network with skip connections that help preserve spatial information. The architecture makes it highly suitable for tasks requiring precise image reconstruction.
 Encoder – consists of repeated applications of two 3x3 convolutions, each followed by a ReLU activation and a 2x2 max pooling operation.
 Decoder – involves upsampling of feature maps, followed by a 2x2 up-convolution, concatenation with correspondingly cropped feature maps from the encoder, and two 3x3 convolutions followed by a ReLU activation.
+
 DnCNN: It is an efficient deep learning model to estimate a residual image having the Gaussian noise. The underlying noise-free image can be estimated as the difference between the noisy image and the residue image. 
+
 RCAN: They consist of a residual in residual (RIR) structure to form very deep network, which consists of several residual groups with long skip connections.
 
 ## Results
