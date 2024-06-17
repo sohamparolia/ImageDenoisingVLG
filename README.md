@@ -3,6 +3,9 @@ VLG Open Project
 
 Open Project created by Soham Parolia, to enhance low light images.
 
+The final trained model has been downloaded and below is the link to the same.
+https://drive.google.com/drive/folders/1y4NVLE2aZqrHAGRV3awy20rTRuGVK1Wy?usp=sharing
+
 ## Table of Contents
 
 - Introduction
